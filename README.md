@@ -1,0 +1,2 @@
+# TsEntityDb 
+TypeScript Entity Database
